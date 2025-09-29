@@ -2,6 +2,6 @@
   "name": "test-webdriverio-fix",
   "version": "1.0.0",
   "dependencies": {
-    "webdriverio": "^9.18.1"
+    "webdriverio": "^9.20.0"
   }
 }
